@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">HelloAndroid</string>
+    <string name="back">Back</string>
+    <string name="nice_it_works">Nice, it works!</string>
+    <string name="input_color">Input color!</string>
+</resources>
